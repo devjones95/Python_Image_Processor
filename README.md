@@ -1,4 +1,5 @@
 Image Processor Web App
+
 A simple web application built with Flask and OpenCV that allows users to upload an image and apply basic image processing filters, such as grayscale, blur, negative, and edge detection.
 
 📸 Features
@@ -40,6 +41,8 @@ image_processor/
 ├── uploads/
 │   └── *.jpg (uploaded images)
 └── README.md
+
+
 🚀 How to Run
 Clone the repository
 
